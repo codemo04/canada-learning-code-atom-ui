@@ -1,13 +1,13 @@
 {
-  "name": "ui-theme-template",
+  "name": "canada-learning-code-ui",
   "theme": "ui",
-  "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "version": "0.1.0",
+  "description": "Atom UI scheme based on Canada Learning Code's brand colours",
   "keywords": [
     "ui",
     "theme"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "https://github.com/adoxography/canada-learning-code-atom-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
